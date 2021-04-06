@@ -1,0 +1,11 @@
+D:\asp.net core\FirstAspNetCoreWeb\FirstAspNetCoreWeb\bin\Debug\netcoreapp2.0\FirstAspNetCoreWeb.deps.json
+D:\asp.net core\FirstAspNetCoreWeb\FirstAspNetCoreWeb\bin\Debug\netcoreapp2.0\FirstAspNetCoreWeb.runtimeconfig.json
+D:\asp.net core\FirstAspNetCoreWeb\FirstAspNetCoreWeb\bin\Debug\netcoreapp2.0\FirstAspNetCoreWeb.runtimeconfig.dev.json
+D:\asp.net core\FirstAspNetCoreWeb\FirstAspNetCoreWeb\bin\Debug\netcoreapp2.0\FirstAspNetCoreWeb.dll
+D:\asp.net core\FirstAspNetCoreWeb\FirstAspNetCoreWeb\obj\Debug\netcoreapp2.0\FirstAspNetCoreWeb.csprojAssemblyReference.cache
+D:\asp.net core\FirstAspNetCoreWeb\FirstAspNetCoreWeb\obj\Debug\netcoreapp2.0\FirstAspNetCoreWeb.csproj.CoreCompileInputs.cache
+D:\asp.net core\FirstAspNetCoreWeb\FirstAspNetCoreWeb\obj\Debug\netcoreapp2.0\FirstAspNetCoreWeb.AssemblyInfoInputs.cache
+D:\asp.net core\FirstAspNetCoreWeb\FirstAspNetCoreWeb\obj\Debug\netcoreapp2.0\FirstAspNetCoreWeb.AssemblyInfo.cs
+D:\asp.net core\FirstAspNetCoreWeb\FirstAspNetCoreWeb\bin\Debug\netcoreapp2.0\FirstAspNetCoreWeb.pdb
+D:\asp.net core\FirstAspNetCoreWeb\FirstAspNetCoreWeb\obj\Debug\netcoreapp2.0\FirstAspNetCoreWeb.dll
+D:\asp.net core\FirstAspNetCoreWeb\FirstAspNetCoreWeb\obj\Debug\netcoreapp2.0\FirstAspNetCoreWeb.pdb
